@@ -1,4 +1,5 @@
 {
     "python.pythonPath": "C:\\Users\\Dexter\\Anaconda3\\python.exe",
-    "python.dataScience.jupyterServerURI": "local"
+    "python.dataScience.jupyterServerURI": "local",
+    "python.dataScience.jupyterCommandLineArguments": []
 }
